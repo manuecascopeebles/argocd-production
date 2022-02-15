@@ -38,7 +38,7 @@ spec:
     kind: Deployment
   - group: 'apps'
     kind: StatefulSet
-  - group: 'extensions/v1beta1'
+  - group: 'extensions/v1'
     kind: Ingress
   - group: 'v1'
     kind: Service
